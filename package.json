@@ -1,0 +1,19 @@
+{
+  "name": "@nidhi-panchal13/testnpm1",
+  "version": "1.0.0",
+  "description": "test package 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhi-panchal13/testnpm1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidhi-panchal13/testnpm1/issues"
+  },
+  "homepage": "https://github.com/nidhi-panchal13/testnpm1#readme"
+}
